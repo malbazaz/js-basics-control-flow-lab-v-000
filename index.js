@@ -16,14 +16,16 @@ return msg;
 }
 
 function switchOnCharmFromTip(tip){
+let hello;
 switch(tip){
 case "generous":
-"Thank you so much"
+hello = "Thank you so much"
 break;
   case "not as generous"
-"Thank you."
+hello = "Thank you."
 break;
 default:
 "Bye."
 }
+return
 }
