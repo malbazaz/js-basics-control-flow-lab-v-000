@@ -1,6 +1,7 @@
 // Write your code in this file!
 function scuberGreetingForFeet(someValue){
 let someValue;
+let hello;
 if (someValue <= 400){
   "This one is on me!"
 } else if (someValue >2000) {
@@ -8,4 +9,5 @@ if (someValue <= 400){
 } else if (someValue >2500){
   "No can do."
 }
+return
 }
