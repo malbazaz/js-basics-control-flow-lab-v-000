@@ -1,5 +1,5 @@
 // Write your code in this file!
-let scuberGreetingForFeet();
+let scuberGreetingForFeet(someValue);
 
 if (scuberGreetingForFeet() <= 400){
   "This is on me!"
