@@ -8,5 +8,4 @@ if (someValue <= 400){
 } else if (someValue >2500){
   "No can do."
 }
-return s
 }
