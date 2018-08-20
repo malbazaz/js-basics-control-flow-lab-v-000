@@ -15,4 +15,4 @@ function ternaryCheckCity(value){const msg = value==="NYC"?"Ok, sounds good.":"N
 return msg;
 }
 
-function switchOnCharmFromTip()
+function switchOnCharmFromTip(){}
