@@ -18,10 +18,10 @@ return msg;
 function switchOnCharmFromTip(tip){
 let hi;
 switch(tip){
-case "generous":
+case 'generous':
 hi = "Thank you so much"
 break;
-  case "not as generous"
+  case 'not as generous':
 hi = "Thank you."
 break;
 default:
