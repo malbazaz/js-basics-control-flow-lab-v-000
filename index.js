@@ -10,3 +10,7 @@ hello = "I will gladly take your thirty bucks."
 }
 return hello;
 }
+
+function ternaryCheckCity(value){value="NYC"?"Ok, sounds good.":"No go.";
+
+}
