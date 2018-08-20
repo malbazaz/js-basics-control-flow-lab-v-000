@@ -12,5 +12,5 @@ return hello;
 }
 
 function ternaryCheckCity(value){const msg = value==="NYC"?"Ok, sounds good.":"No go.";
-return msg;
+
 }
