@@ -19,7 +19,7 @@ function switchOnCharmFromTip(tip){
 let hi;
 switch(tip){
 case 'generous':
-hi = "Thank you so much"
+hi = "Thank you so much."
 break;
   case 'not as generous':
 hi = "Thank you."
