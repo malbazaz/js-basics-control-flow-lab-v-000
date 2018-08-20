@@ -11,6 +11,6 @@ hello = "I will gladly take your thirty bucks."
 return hello;
 }
 
-function ternaryCheckCity(value){const msg = value="NYC"?"Ok, sounds good.":"No go.";
+function ternaryCheckCity(value){const msg = value==="NYC"?"Ok, sounds good.":"No go.";
 return msg;
 }
